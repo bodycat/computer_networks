@@ -1,1 +1,2 @@
-
+powershell
+start sconfig
